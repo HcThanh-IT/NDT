@@ -14,7 +14,8 @@ body {
     background-image: -moz-radial-gradient(#374566, #010203);
     background-image: -o-radial-gradient(#374566, #010203);
     background-image: radial-gradient(#374566, #010203); */
-    background-image: url(./1.jpg);
+    background-image: url(./2.jpg);
+    background-size: contain;
     font-family: 'Lobster', cursive;
 }
 span {
